@@ -1,3 +1,4 @@
+:rainbow:
 ### Asteroids in C
 
 A small game I wrote when I was learning C programming.  
